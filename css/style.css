@@ -1,0 +1,18 @@
+.bg-img1 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../images/hinh1.jpg");
+}
+.bg-img2 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../images/hinh2.jpg");
+}
+.bg-img3 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../images/hinh3.jpg");
+}
